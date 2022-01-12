@@ -1,0 +1,50 @@
+.html-main-page-bg{
+    background: url(resources/Odin-dh.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#body-index{
+    text-align: center;
+}
+
+.links, #ul-index, h1{
+    color: white;
+}
+
+/*div {
+    color: white;
+    background-color: black;
+}*/
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    /*text-align: center;*/
+    font-size: 80px;
+    -webkit-text-stroke: 4px black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /*color: rgb(255, 255, 255);*/
+}
+
+/*ul{
+    color: white;
+}*/
+
+.links{
+    /*color: white;*/
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.html-recipes-pages-bg{
+    background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/confectionary.png) no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover; 
+    background-size: cover;
+}
